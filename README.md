@@ -11,12 +11,7 @@ Once you know the premise, you can come back here and check out the code!
 
 ## 01 Understanding the Data
 
-  ### 1.1 Data Source and Data License Agreement
-
-  - [Click here for the data](https://divvy-tripdata.s3.amazonaws.com/index.html)  
-  - [Click here for the license agreement](https://divvybikes.com/data-license-agreement)  
-
-### 1.2 Data Structure
+### 1.1 Data Structure
 - The cyclistic trip data is stored and organised on a month by month basis in a CSV file, each of which is imported into SQL as a separate table.
 - 12 tables, are then combined into 1 single table using SQL
 - A backup is created to prevent data loss and restarting from scratch  
@@ -28,6 +23,12 @@ Each CSV file has the following 13 columns, which were imported into SQL as foll
 
 For our analysis, few columns were added. After addition, the columns for the table **_year2023_** looks like below :   
  ![Year2023 columns](https://github.com/user-attachments/assets/f5d68667-9e50-4807-8eef-4f128aa177fe)
+
+
+  ### 1.2 Data Source and Data License Agreement
+
+  - [Click here for the orignal data](https://divvy-tripdata.s3.amazonaws.com/index.html)  
+  - [Click here for the license agreement](https://divvybikes.com/data-license-agreement)  
 
 ---
 
