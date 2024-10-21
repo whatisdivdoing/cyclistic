@@ -6,7 +6,7 @@ How do Annual Members and Casual Riders, use Cyclistic Bikes differently? Find o
 ---
 
 Hello there!! 
-I hope by now you have a good understanding of what this project is. If not, you can watch this [Youtube Video]() where I explain the context and premise of this project. 
+I hope by now you have a good understanding of what this project is. If not, you can watch this [Youtube Video](https://youtu.be/MUZ0fFxClYI?si=YHDYuqpNpRUHhlOG) where I explain the context and premise of this project. 
 Once you know the premise, you can come back here and check out the code! 
 
 ## 01 Understanding the Data
